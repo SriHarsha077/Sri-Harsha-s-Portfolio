@@ -24,7 +24,7 @@ To view the portfolio locally:
    cd portfolio
 ## 🛡️ Deployment
 
-The website is live at [My Portfolio](https://harshavardhan1505.github.io/Harshavardhan-Portfolio/).
+The website is live at [My Portfolio](https://sriharsha077.github.io/Sri-Harsha-s-Portfolio/).
 ## 📄 License
 
 This project is licensed under the MIT License.
